@@ -1,4 +1,4 @@
-# 🚀 Sandepogu Sudheer
+#  Sandepogu Sudheer
 
 ### AI & Data Science Engineer | Full Stack Developer | Machine Learning Enthusiast
 
